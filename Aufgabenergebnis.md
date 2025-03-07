@@ -36,7 +36,7 @@ Folgende Komponenten müssen lokal installiert sein:
 Um das Projekt lokal auszuführen, folgendes in der Commandline / Bash eingeben:
 
 ```console
-$ git clone <https://github.com/BenjaminKru/Code-Challange.git> csv-einleser
+$ git clone https://github.com/BenjaminKru/Code-Challange.git csv-einleser
 $ cd csv-einleser
 $ pip install pandas
 $ python main.py
